@@ -23,7 +23,7 @@ class Config:
     SECRET_KEY = 'mingli-mirror-secret-key-2024'
     DEBUG = True
     HOST = '0.0.0.0'
-    PORT = 5000
+    PORT = 8080
 
     # GLM-4-Flash配置
     GLM_API_KEY = '22b25f526f2f4f35a59c21d1cef58970.I1cD5MhVzOR2B5oZ'
